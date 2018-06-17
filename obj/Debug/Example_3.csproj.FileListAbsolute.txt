@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\obj\Debug\Example_3.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\obj\Debug\Example_3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\bin\Debug\Example_3.exe.config
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\bin\Debug\Example_3.exe
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\bin\Debug\Example_3.pdb
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\obj\Debug\Example_3.exe
+C:\Users\Пользователь\Desktop\Projects C#\Example_3\Example_3\obj\Debug\Example_3.pdb
